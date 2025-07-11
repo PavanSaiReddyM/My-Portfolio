@@ -9,7 +9,7 @@ const Projects = () => {
         'A fully responsive personal portfolio built using modern web technologies for showcasing developer profiles and projects.',
       image: '/src/images/940f514f-3688-4c49-95de-aa6c6389aebf.png',
       technologies: ['React', 'JavaScript','CSS','HTML'],
-      githubUrl: '#',
+      githubUrl: 'https://github.com/PavanSaiReddyM/My-Portfolio',
       liveUrl: '#',
       featured: false,
     },
