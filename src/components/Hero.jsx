@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
 import { SiLeetcode } from "react-icons/si";
-
+import profile from '../images/IMG20240324111100~2.jpg';
 const Hero = () => {
   const socialLinks = [
     { icon: <Github size={20} />, href: 'https://github.com/PavanSaiReddyM', label: 'GitHub' },
@@ -26,7 +26,7 @@ const Hero = () => {
         <div className="mb-8">
           <div className="w-64 h-64 mx-auto rounded-full bg-gradient-to-r from-purple-400 to-pink-500 p-1 animate-scale-in">
             <img
-              src="/src/images/IMG20240324111100~2.jpg"
+              src={profile}
            
               alt=" Moola Pavan Sai Reddy"
               className="w-full h-full rounded-full object-cover"

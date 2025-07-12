@@ -1,5 +1,9 @@
 import React from 'react';
 import { Github, ExternalLink } from 'lucide-react';
+import image1 from '../images/940f514f-3688-4c49-95de-aa6c6389aebf.png'
+import image2 from '../images/Screenshot 2025-06-29 095532.png'
+import image3 from '../images/Screenshot 2025-07-10 151810.png'
+
 
 const Projects = () => {
   const projects = [
@@ -7,7 +11,7 @@ const Projects = () => {
       title: 'My Portfolio',
       description:
         'A fully responsive personal portfolio built using modern web technologies for showcasing developer profiles and projects.',
-      image: '/src/images/940f514f-3688-4c49-95de-aa6c6389aebf.png',
+      image: image1,
       technologies: ['React', 'JavaScript','CSS','HTML'],
       githubUrl: 'https://github.com/PavanSaiReddyM/My-Portfolio',
       liveUrl: '#',
@@ -17,7 +21,7 @@ const Projects = () => {
   title: 'News Scraping App',
   description:
     'A Python-based web scraping tool that automatically collects the latest news articles from multiple sources, extracting headlines, summaries, and publication dates for real-time data analysis or aggregation.',
-  image: '/src/images/Screenshot 2025-06-29 095532.png',
+  image: image2,
   technologies: ['Python', 'BeautifulSoup', 'Requests', 'Pandas'],
   githubUrl: 'https://github.com/PavanSaiReddyM/webscrapping',
   liveUrl: '#',
@@ -27,7 +31,7 @@ const Projects = () => {
       title: 'Random Password Generator',
       description:
         'A sleek and responsive web application built with React that allows users to generate strong, customizable passwords with various character options including symbols, numbers, and uppercase letters.',
-      image: '/src/images/Screenshot 2025-07-10 151810.png',
+      image:image3,
       technologies: ['React', 'JavaScript', 'CSS', 'HTML'],
       githubUrl: '#',
       liveUrl: 'https://pavan-random-password-generator.netlify.app/',
