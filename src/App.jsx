@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // Pages
-import Index from "./pages";
+import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
 // Optional: Add UI Providers here if needed
