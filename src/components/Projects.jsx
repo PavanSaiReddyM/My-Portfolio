@@ -14,7 +14,7 @@ const Projects = () => {
       image: image1,
       technologies: ['React', 'JavaScript','CSS','HTML'],
       githubUrl: 'https://github.com/PavanSaiReddyM/My-Portfolio',
-      liveUrl: '#',
+      liveUrl: 'https://moolapavansaireddy.netlify.app/',
       featured: false,
     },
    {
