@@ -3,9 +3,10 @@ A responsive and modern personal portfolio website built using React. It showcas
 
 🚀 Live Demo
 https://pavansaireddymoola.netlify.app/
-(Replace the link above with your actual deployed URL)
+
 
 🛠️ Built With
+
 ⚛️ React – Frontend JavaScript library
 
 💅  Tailwind 
