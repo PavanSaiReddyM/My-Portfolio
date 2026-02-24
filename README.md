@@ -1,8 +1,7 @@
 🌐 Personal Portfolio
 A responsive and modern personal portfolio website built using React. It showcases my skills, projects, experience, and contact information. Deployed and live on the web!
 
-🚀 Live Demo
-https://pavansaireddymoola.netlify.app/
+
 
 
 🛠️ Built With
